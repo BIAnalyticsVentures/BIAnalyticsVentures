@@ -1,4 +1,4 @@
-- 👋 Hi, Author: @BIAnalyticsVentures, previously Author:@BIVentures (rename caused it to delete)
+- 👋 Howdy! Author: @BIAnalyticsVentures, previously Author:@BIVentures (rename caused it to delete the older stuff)
 - 👀 I’m interested in, all things data
 - 🌱 I’m currently learning, well I'm a life long learner
 - 💞️ I’m looking to collaborate on,  well nothing really at the moment , open to entertaining good ideas without accepting any
